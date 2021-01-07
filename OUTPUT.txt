@@ -1,0 +1,20 @@
+what is the color of apple
+a)red\green
+b)blue
+c)black
+d)brown
+a
+you got1/3correct
+how many colour in rainbow
+a)seven
+b)nine
+c)eight
+d)eleven
+d
+how many hour in one day
+a)7
+b)9
+c)8
+d)24
+d
+you got2/3correct
